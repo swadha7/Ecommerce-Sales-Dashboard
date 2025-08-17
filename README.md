@@ -26,7 +26,7 @@ An interactive Excel dashboard built with **Power Query, Power Pivot, DAX, and d
 - **Pivot Tables/Charts** with **Slicers** for interactivity
 
 ## 📷 Screenshots
-- `FNP_Dashboard.png` (full dashboard view)
+![Dashboard](FNP_Dashboard.png)
 
 ## 📂 Files
 - `FNP_Dashboard.xlsx` – Excel file with model, DAX, and dashboard
